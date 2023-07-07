@@ -3,4 +3,4 @@ function penjumlahan(a,b){
 
 }
 
-alert(penjumlahan(2,4));
+alert(penjumlahan(3,5));
